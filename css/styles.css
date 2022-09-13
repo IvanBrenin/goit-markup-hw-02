@@ -27,6 +27,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  letter-spacing: 0.03em;
   text-decoration: none;
 }
 
@@ -44,6 +45,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.1;
+  letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
 
@@ -82,7 +84,8 @@ body {
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.85;
+  letter-spacing: 0.06em;
   background-color: var(--accent-color);
   color: var(--primary-white-color);
 }
@@ -106,23 +109,27 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .list-text {
   font-size: 14px;
   line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 .card-title {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
+  letter-spacing: 0.03em;
 }
 
 .card-text {
   font-size: 16px;
   line-height: 1.18;
+  letter-spacing: 0.03em;
 }
 
 /* Footer */
@@ -131,6 +138,7 @@ body {
   font-style: normal;
   font-size: 14px;
   line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 .footer.logo {
@@ -155,6 +163,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
+  letter-spacing: 0.03em;
   text-align: center;
   cursor: pointer;
   background-color: #f5f4fa;
@@ -171,10 +180,12 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
   color: var(--secondary-text-color);
 }
 
 .portfolio-text {
   font-size: 16px;
   line-height: 1.87;
+  letter-spacing: 0.03em;
 }
